@@ -1,0 +1,3 @@
+# Project exclude paths
+/back/dist/
+/back/node_modules/
